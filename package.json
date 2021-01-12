@@ -7,9 +7,8 @@
     "browserslist": "> 1%",
     "main": "_static/js/index.js",
     "scripts": {
-        "dev": "npm run build && webpack-dev-server --open --config webpack.dev.js",
         "build": "make clean html && webpack --config webpack.prod.js",
-        "start": "run-p start:*",
+        "start": "npm run build && webpack-dev-server --open --config webpack.dev.js",
         "start:sphinx": "make htmlview",
         "start:webpack": "webpack --mode=development",
         "build:local": "make clean && run-s build:webpack build:sphinx",
