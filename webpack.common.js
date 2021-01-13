@@ -31,10 +31,6 @@ module.exports = {
           'css-loader',
           'postcss-loader'
         ],
-      },
-      {
-        test: /\.(jpe?g|png|gif|woff|woff2|eot|ttf|svg)(\?[a-z0-9=.]+)?$/,
-        loader: 'url-loader?limit=100000'
       }
     ]
     },
@@ -44,8 +40,8 @@ module.exports = {
     },
   plugins: [
     new MiniCssExtractPlugin({
-      filename: "bundle.css?[hash]",
-      chunkFilename: "[name].css?[hash]"
+      filename: "bundle.css?[chunkhash]",
+      chunkFilename: "[name].css?[chunkhash]"
     }),
     new webpack.DefinePlugin({
         // Provide enviroment variable defaults
