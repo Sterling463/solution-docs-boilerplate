@@ -11,7 +11,7 @@ module.exports = {
       path.resolve('api-docs', '_static', 'css', 'styles.css'),
     ],
     output: {
-        path: path.resolve('api-docs/build/html'),
+        path: path.resolve('api-docs/_build/html'),
         filename: "bundle.js",
     },
   externals: {
