@@ -8,7 +8,7 @@ const common = require("./webpack.common.js");
 module.exports = merge(common, {
   mode: "development",
   devServer: {
-    contentBase: "build/html",
+    contentBase: "api-docs/_build/html",
     port: 1919,
     open: false,
     hot: false,
@@ -21,7 +21,7 @@ module.exports = merge(common, {
   },
   plugins: [
     new ShellPlugin({
-      onBuildStart: ["make html"],
+      onBuildStart: ["cd api-docs && make html && cd .."],
     })
   ]
 });
