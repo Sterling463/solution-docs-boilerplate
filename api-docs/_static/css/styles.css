@@ -11937,3 +11937,10 @@ body {
 .btn-white {
     background-color: transparent !important;
 }
+
+.sidebar-container .toctree-wrapper > ul > li.toctree-l1:first-of-type a, .sidebar-container > ul > li.toctree-l1:first-of-type a {
+    font-family: titillium-bold,arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: uppercase;
+}
