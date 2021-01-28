@@ -9868,7 +9868,7 @@ table {
 }
 
 
-.current > ul > li.toctree-l1:first-of-type a, ul > li.toctree-l1:first-of-type a {
+.current > ul > li.toctree-l1:first-of-type > a, ul > li.toctree-l1:first-of-type > a {
     font-family: titillium-bold, arial, sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -11358,7 +11358,7 @@ ul li {
     margin: 0;
 }
 
-ul >li.toctree-l1:first-of-type a, ul >li.toctree-l1:first-of-type a {
+ul > li.toctree-l1:first-of-type > a, ul > li.toctree-l1:first-of-type > a {
     font-family: 'titillium-bold',arial,sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -11937,7 +11937,7 @@ body {
     background-color: transparent !important;
 }
 
-.wy-side-scroll .wy-menu > ul > li.toctree-l1:first-of-type a, .wy-menu > ul > li.toctree-l1:first-of-type a {
+.wy-side-scroll .wy-menu > ul > li.toctree-l1:first-of-type > a, .wy-menu > ul > li.toctree-l1:first-of-type > a {
     font-family: titillium-bold,arial,sans-serif;
     font-style: normal;
     font-weight: 400;
