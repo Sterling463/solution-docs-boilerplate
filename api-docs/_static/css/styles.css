@@ -5155,8 +5155,6 @@ html {
 
 .wy-side-scroll {
     position: relative;
-    overflow-x: auto;
-    overflow-y: scroll;
     height:100%
 }
 
@@ -5347,10 +5345,6 @@ footer span.commit code, footer span.commit .rst-content tt, .rst-content footer
     .wy-nav-side.shift {
         width: 85%;
         left:0
-    }
-
-    .wy-side-scroll {
-        width:auto
     }
 
     .wy-side-nav-search {
@@ -11340,8 +11334,6 @@ hr {
 }
 
 .wy-side-scroll {
-    overflow-x: auto;
-    overflow-y: auto;
     padding: 15px 15px 0;
 }
 
