@@ -5271,6 +5271,8 @@ footer span.commit code, footer span.commit .rst-content tt, .rst-content footer
     vertical-align: top;
     margin-bottom: 1.5em;
     position: absolute;
+    top: 1rem;
+    bottom: 1rem;
 }
 
 .rst-footer-buttons .label {
