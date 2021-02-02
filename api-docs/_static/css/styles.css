@@ -11158,7 +11158,7 @@ hr {
     text-transform:uppercase
 }
 
-@media (min-width: 726px) {
+@media (min-width: 1024px) {
     .site-header .header-headline {
         margin-top:-60px
     }
