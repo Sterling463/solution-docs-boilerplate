@@ -9880,7 +9880,7 @@ table {
 
 
 
-.current > ul li a, ul li a {
+.current > ul li a {
     font-family: titillium-regular, arial, sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -9890,6 +9890,17 @@ table {
     padding: .4em .5em;
     text-decoration:none
 }
+
+ul li a {
+    font-family: titillium-regular, arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    display: block;
+    font-size: 16px;
+    padding: .4em .5em;
+    text-decoration:none
+}
+
 
 @media (min-width: 769px) {
     .sidebar-container.sticky {
