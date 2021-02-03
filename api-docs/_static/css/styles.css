@@ -7214,7 +7214,7 @@ table {
 }
 
 .admonition, .admonition:before, .fa, .fa-stack {
-    display:inline-block
+    display: flex
 }
 
 @font-face {
@@ -9666,7 +9666,6 @@ table {
     font-size: 21px;
     height: 21px;
     left: 21px;
-    position: absolute;
     top: 12px;
     width:21px
 }
