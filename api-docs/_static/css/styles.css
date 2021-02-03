@@ -11944,3 +11944,23 @@ body {
     padding: .4em .5em;
     text-decoration: none;
 }
+
+a, a:visited {
+    color: #3498db;
+}
+
+ul {
+    list-style-type: disc;
+}
+ol, ul {
+    padding-left: 1.4em;
+    margin-bottom: 1.5em;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+ol li, ul li {
+    margin-bottom: .5em;
+}
