@@ -5248,13 +5248,11 @@ footer span.commit code, footer span.commit .rst-content tt, .rst-content footer
 }
 .rst-footer-buttons .prev {
     text-align: left;
-    margin-left: 2rem;
     left: 0;
 }
 
 .rst-footer-buttons .next {
     text-align: right;
-    margin-right: 2rem;
     right: 0;
 }
 
