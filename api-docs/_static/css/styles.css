@@ -4984,27 +4984,27 @@ html {
     margin-bottom: 0;
     display:none;
 }
-li.toctree-l1.open > ul{
+.wy-menu-vertical li.toctree-l1.open > ul{
     display: block;
 }
-li.toctree-l2.open > ul {
+.wy-menu-vertical li.toctree-l2.open > ul {
     display: block;
 }
-li.toctree-l3.open > ul {
-    display: block;
-}
-
-li.toctree-l1.current > ul{
-    display: block;
-}
-li.toctree-l2.current > ul {
-    display: block;
-}
-li.toctree-l3.current > ul {
+.wy-menu-vertical li.toctree-l3.open > ul {
     display: block;
 }
 
-li.current > .collapse-target {
+.wy-menu-vertical li.toctree-l1.current > ul{
+    display: block;
+}
+.wy-menu-vertical li.toctree-l2.current > ul {
+    display: block;
+}
+.wy-menu-vertical li.toctree-l3.current > ul {
+    display: block;
+}
+
+.wy-menu-vertical li.current > .collapse-target {
     transform: rotate(90deg);
 }
 
