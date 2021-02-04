@@ -4979,9 +4979,6 @@ html {
     font-size:.9em
 }
 
-.wy-menu-vertical li.current > ul {
-    display:block
-}
 
 .wy-menu-vertical li ul {
     margin-bottom: 0;
