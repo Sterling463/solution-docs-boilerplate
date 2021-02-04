@@ -5331,7 +5331,15 @@ footer span.commit code, footer span.commit .rst-content tt, .rst-content footer
     }
 
     .wy-menu.wy-menu-vertical {
-        width:auto
+        width:auto;
+        position: sticky;
+        position: -webkit-sticky;
+        top: 56px;
+        z-index: 1020;
+        display: flex;
+        flex-direction: column;
+        padding-left: 0;
+        margin-bottom: 0;
     }
 
     .wy-nav-content-wrap {
@@ -18590,3 +18598,4 @@ body.not-found .not-found-message h1 {
 ul.simple {
     padding-left: 0;
 }
+
