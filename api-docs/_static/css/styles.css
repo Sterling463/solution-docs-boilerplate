@@ -4928,10 +4928,6 @@ html {
     color:#404040
 }
 
-.wy-menu-vertical li.toctree-l1.current li.toctree-l2 > ul, .wy-menu-vertical li.toctree-l2.current li.toctree-l3 > ul {
-    display:none
-}
-
 .wy-menu-vertical li.toctree-l1.current li.toctree-l2.current > ul, .wy-menu-vertical li.toctree-l2.current li.toctree-l3.current > ul {
     display:block
 }
