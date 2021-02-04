@@ -9646,7 +9646,8 @@ table {
     height: 21px;
     left: 21px;
     top: 12px;
-    width:21px
+    width:21px;
+    margin: .25rem;
 }
 
 .admonition.note {
@@ -14228,7 +14229,8 @@ table {
  height:21px;
  left:21px;
  top:12px;
- width:21px
+ width:21px;
+ margin:0.25rem;
 }
 .admonition.note {
  box-shadow:inset 8px 0 0 #76bcff
