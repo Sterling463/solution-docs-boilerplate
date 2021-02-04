@@ -18590,14 +18590,3 @@ body.not-found .not-found-message h1 {
 ul.simple {
     padding-left: 0;
 }
-
-.wy-side-scroll {
-    height: 100%;
-    width: 100%;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    overflow-x: hidden;
-    padding-top: 20px;
-}
