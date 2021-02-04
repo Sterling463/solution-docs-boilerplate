@@ -4979,7 +4979,7 @@ html {
     font-size:.9em
 }
 
-.wy-menu-vertical li.current ul {
+.wy-menu-vertical li.current > ul {
     display:block
 }
 
