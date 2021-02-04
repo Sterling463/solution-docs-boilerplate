@@ -18590,3 +18590,16 @@ body.not-found .not-found-message h1 {
 ul.simple {
     padding-left: 0;
 }
+
+.wy-side-scroll {
+    position: -webkit-sticky;
+    background-color: red;
+    position: sticky;
+    top: 0;
+}
+
+.wy-side-scroll:before,
+.wy-side-scroll:after {
+    content: '';
+    display: table;
+}
