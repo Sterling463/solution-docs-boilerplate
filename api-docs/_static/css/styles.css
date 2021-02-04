@@ -5561,7 +5561,6 @@ footer span.commit code, footer span.commit .rst-content tt, .rst-content footer
 }
 
 .rst-content blockquote {
-    margin-left: 24px;
     line-height: 24px;
     margin-bottom:24px
 }
@@ -18599,4 +18598,7 @@ body.not-found .not-found-message {
 }
 body.not-found .not-found-message h1 {
  margin-bottom:1em
+}
+ul.simple {
+    padding-left: 0;
 }
