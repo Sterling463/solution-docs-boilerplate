@@ -9840,7 +9840,7 @@ table {
 }
 
 
-ul.current > li.toctree-l1:first-of-type > address {
+.current > ul > li.toctree-l1:first-of-type > a {
     font-family: titillium-bold, arial, sans-serif;
     font-style: normal;
     font-weight: 400;
