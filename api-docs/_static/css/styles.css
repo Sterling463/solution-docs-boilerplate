@@ -11327,7 +11327,7 @@ ul li {
     margin: 0;
 }
 
-ul.current > li.toctree-l1:first-of-type > a, ul > li.toctree-l1:first-of-type > a {
+ul.current > li.toctree-l1:first-of-type > a {
     font-family: 'titillium-bold',arial,sans-serif;
     font-style: normal;
     font-weight: 400;
