@@ -4994,6 +4994,16 @@ li.toctree-l3.open > ul {
     display: block !important;
 }
 
+li.toctree-l1.current > ul{
+    display: block !important;
+}
+li.toctree-l2.current > ul {
+    display: block !important;
+}
+li.toctree-l3.current > ul {
+    display: block !important;
+}
+
 .wy-menu-vertical li ul li a {
     margin-bottom: 0;
     font-weight:normal
