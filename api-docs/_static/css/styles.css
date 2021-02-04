@@ -5881,7 +5881,6 @@ footer span.commit code, footer span.commit .rst-content tt, .rst-content footer
 }
 
 .rst-content dl dd {
-    margin: 0 0 12px 24px;
     line-height:24px
 }
 
@@ -5889,13 +5888,6 @@ footer span.commit code, footer span.commit .rst-content tt, .rst-content footer
     margin-bottom:24px
 }
 
-.rst-content dl:not(.docutils) dt {
-    display: table;
-    font-size: 90%;
-    line-height: normal;
-    padding: 6px;
-    position:relative
-}
 
 .rst-content dl:not(.docutils) dt:before {
     color:#6ab0de
