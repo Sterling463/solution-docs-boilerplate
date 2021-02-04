@@ -9773,8 +9773,8 @@ table {
 .github-link {
     border-bottom: solid 1px #d1d1d1;
     display: block;
-    margin-bottom: 20px;
-    padding-bottom: 20px;
+    margin: 10px;
+    padding: 10px;
     text-align: center;
     -webkit-transition: color .1s ease-in-out;
     -ms-transition: color .1s ease-in-out;
@@ -14985,8 +14985,8 @@ ul.language-selector>li>a.active span {
 .sidebar-container .github-link {
  border-bottom:solid 1px #d1d1d1;
  display:block;
- margin-bottom:20px;
- padding-bottom:20px;
+ margin:10px;
+ padding:10px;
  text-align:center;
  -webkit-transition:color .1s ease-in-out;
  -ms-transition:color .1s ease-in-out;
