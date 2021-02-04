@@ -4988,13 +4988,13 @@ html {
     display:none;
 }
 li.toctree-l1.open > ul{
-    display: block;
+    display: block !important;
 }
 li.toctree-l2.open > ul {
-    display: block;
+    display: block !important;
 }
 li.toctree-l3.open > ul {
-    display: block;
+    display: block !important;
 }
 
 .wy-menu-vertical li ul li a {
