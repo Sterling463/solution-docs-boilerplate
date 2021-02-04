@@ -14980,7 +14980,6 @@ ul.language-selector>li>a.active span {
 .sidebar-container {
  overflow-x:hidden;
  overflow-y:auto;
- padding:15px 15px 0
 }
 .sidebar-container::-webkit-scrollbar {
  background:0 0;
@@ -15101,7 +15100,6 @@ a.cta {
  width:12px
 }
 .sidebar-container li>ul {
- max-height:0;
  overflow-y:hidden
 }
 .sidebar-container li.open>.collapse-target {
@@ -15121,9 +15119,6 @@ a.cta {
  }
 }
 @media (min-width:1025px) {
- .sidebar-container {
-  padding:15px 20px 0
- }
  .sidebar-container.sticky {
   width:calc(25%)
  }
