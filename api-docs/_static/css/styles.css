@@ -5330,18 +5330,6 @@ footer span.commit code, footer span.commit .rst-content tt, .rst-content footer
         width:auto
     }
 
-    .wy-menu.wy-menu-vertical {
-        width:auto;
-        position: sticky;
-        position: -webkit-sticky;
-        top: 56px;
-        z-index: 1020;
-        display: flex;
-        flex-direction: column;
-        padding-left: 0;
-        margin-bottom: 0;
-    }
-
     .wy-nav-content-wrap {
         margin-left:0
     }
