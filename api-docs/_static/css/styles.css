@@ -9869,7 +9869,7 @@ table {
 @media (min-width: 1025px) {
 
     .sidebar-container.sticky {
-        width:calc(25%)
+        width:calc(22%)
     }
 }
 
@@ -15109,7 +15109,7 @@ a.cta {
 }
 @media (min-width:1025px) {
  .sidebar-container.sticky {
-  width:calc(25%)
+  width:calc(22%)
  }
 }
 .show-section-nav .docs-section-nav {
