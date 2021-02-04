@@ -4985,6 +4985,10 @@ html {
 
 .wy-menu-vertical li ul {
     margin-bottom: 0;
+    display:none;
+}
+.wy-menu-vertical li.open ul{
+    display: block;
 }
 
 .wy-menu-vertical li ul li a {
