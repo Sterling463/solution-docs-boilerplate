@@ -4987,7 +4987,13 @@ html {
     margin-bottom: 0;
     display:none;
 }
-.wy-menu-vertical li.open ul{
+li.toctree-l1.open > ul{
+    display: block;
+}
+li.toctree-l2.open > ul {
+    display: block;
+}
+li.toctree-l3.open > ul {
     display: block;
 }
 
