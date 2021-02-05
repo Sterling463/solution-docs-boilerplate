@@ -10470,7 +10470,8 @@ pre {
     overflow-x: scroll;
     overflow-y: hidden;
     -webkit-overflow-scrolling: touch;
-    padding-bottom:.5em
+    padding-bottom:.5em;
+    color: #e0e0d7;
 }
 
 pre::-webkit-scrollbar {
