@@ -5265,7 +5265,6 @@ footer span.commit code, footer span.commit .rst-content tt, .rst-content footer
     -moz-box-sizing: border-box;
     vertical-align: top;
     margin-bottom: 1.5em;
-    position: absolute;
     top: 1rem;
     bottom: 1rem;
 }
