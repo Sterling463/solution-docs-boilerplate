@@ -10648,7 +10648,7 @@ hr {
 .site-header .header-links .btn-link.sign-up ul {
     display: none;
     position: absolute;
-    background: #5aaa28;
+    background: #5aaa28;    
     padding-left:0
 }
 
@@ -15889,12 +15889,7 @@ hr {
  background:#5aaa28;
  color:#fff
 }
-.site-header .header-links .btn-link.sign-up ul {
- display:none;
- position:absolute;
- background:#5aaa28;
- padding-left:0
-}
+
 .site-header .header-links .btn-link.sign-up .extra-words {
  display:none
 }
