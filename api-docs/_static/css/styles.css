@@ -11304,13 +11304,6 @@ hr {
   }
 
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0 0 0 20px;
-    width: 100%;
-}
-
 ul li {
     margin: 0;
 }
