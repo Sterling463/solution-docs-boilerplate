@@ -5625,7 +5625,7 @@ footer span.commit code, footer span.commit .rst-content tt, .rst-content footer
 
 .rst-content pre.literal-block, .rst-content div[class^='highlight'] pre, .rst-content .linenodiv pre {
     font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", Courier, monospace;
-    font-size: 12px;
+    font-size: 14px;
     line-height:1.4
 }
 
