@@ -18553,3 +18553,8 @@ ul.simple {
         display: none;
     }
 }
+
+.highlight {
+    background: #3b3f45;
+    color: #e0e0d7;
+}
