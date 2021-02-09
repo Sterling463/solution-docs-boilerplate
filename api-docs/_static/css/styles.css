@@ -18578,3 +18578,7 @@ ul.simple {
     padding: .4em .5em;
     text-decoration: none;
 }
+
+.quick-start-nav ul li a:hover {
+    color: #3498db;
+}
