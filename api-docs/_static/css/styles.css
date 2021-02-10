@@ -7189,7 +7189,7 @@ table {
     display:table
 }
 
-.admonition, .admonition:before, .fa, .fa-stack {
+.admonition:before, .fa, .fa-stack {
     display: flex
 }
 
@@ -12071,7 +12071,7 @@ table {
  content:" ";
  display:table
 }
-.admonition,
+
 .admonition:before,
 .fa,
 .fa-stack {
