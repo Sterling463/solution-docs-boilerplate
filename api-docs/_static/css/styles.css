@@ -18582,3 +18582,20 @@ ul.simple {
 .quick-start-nav ul li a:hover {
     color: #3498db;
 }
+
+.rpc-vmware-sidebar li.toctree-l2 a {
+    text-transform: none;
+    font-family: titillium-regular,arial,sans-serif;
+}
+.rpc-vmware-sidebar li.toctree-l3 a {
+    text-transform: none;
+    font-family: titillium-regular,arial,sans-serif;
+}
+.rpc-vmware-sidebar li.toctree-l4 a {
+    text-transform: none;
+    font-family: titillium-regular,arial,sans-serif;
+}
+.rpc-vmware-sidebar li.toctree-l5 a {
+    text-transform: none;
+    font-family: titillium-regular,arial,sans-serif;
+}
