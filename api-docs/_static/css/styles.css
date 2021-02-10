@@ -18584,18 +18584,18 @@ ul.simple {
 }
 
 .rpc-vmware-sidebar li.toctree-l2 a {
-    text-transform: none;
-    font-family: titillium-regular,arial,sans-serif;
+    text-transform: none !important;
+    font-family: titillium-regular,arial,sans-serif !important;
 }
 .rpc-vmware-sidebar li.toctree-l3 a {
-    text-transform: none;
-    font-family: titillium-regular,arial,sans-serif;
+    text-transform: none !important;
+    font-family: titillium-regular,arial,sans-serif !important;
 }
 .rpc-vmware-sidebar li.toctree-l4 a {
-    text-transform: none;
-    font-family: titillium-regular,arial,sans-serif;
+    text-transform: none !important;
+    font-family: titillium-regular,arial,sans-serif !important;
 }
 .rpc-vmware-sidebar li.toctree-l5 a {
-    text-transform: none;
-    font-family: titillium-regular,arial,sans-serif;
+    text-transform: none !important;
+    font-family: titillium-regular,arial,sans-serif !important;
 }
