@@ -1,11 +1,11 @@
 :orphan:
 
-======================================
-Title for Solution Docs
-======================================
+========================================
+Database Administration solution guide
+========================================
 
-This repository contains the source files that generate the Solution Docs:
-
+Documentation for the Rackspace Technology Database Administration
+solution guide.
 
 Setup the environment
 ---------------------

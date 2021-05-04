@@ -71,16 +71,16 @@ master_doc = 'index'
 # builder = 'deconst-single'
 
 # General information about the project.
-project = 'Solution Docs'
+project = 'Database Administration Solutions Guide'
 copyright = 'date'
-author = 'Rackspace'
+author = 'Rackspace Technology'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
 #
 # The short X.Y version.
-version = '2'
+version = '1'
 # The full version, including alpha/beta/rc tags.
 release = '1'
 
@@ -179,7 +179,7 @@ else:
 # documentation.
 html_theme_options = {
     "collapse_navigation" : False,
-    "sticky_navigation": True, 
+    "sticky_navigation": True,
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
@@ -188,10 +188,10 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = 'Solution Docs'
+html_title = 'DBA Solution Guide'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = 'Solution Docs'
+html_short_title = 'DBA Solution Guide'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -270,7 +270,7 @@ html_use_smartypants = True
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'solution-docs'
+htmlhelp_basename = 'dba-solution-docs'
 
 # this will change the 'paragraph' character to '#'
 html_add_permalinks = '#'
@@ -296,7 +296,7 @@ html_add_permalinks = '#'
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   (master_doc, 'docscloudimages.tex',
-   'Rackspace Cloud Images API Guide',
+   'Rackspace Technology DBA User Guide',
    'Rackspace', 'manual'),
 ]
 
@@ -326,9 +326,9 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'Rackspace Cloud Images API documentation',
-     'Rackspace developer documentation',
-     'Rackspace', 1)
+    (master_doc, 'Rackspace Technology DBA User Guide',
+     'Rackspace Technology DBA solutions guide',
+     'Rackspace Technology', 1)
 ]
 
 # If true, show URL addresses after external links.
